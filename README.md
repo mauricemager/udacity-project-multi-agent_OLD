@@ -2,7 +2,7 @@
 
 [image1]: https://video.udacity-data.com/topher/2018/June/5b1ab4b0_banana/banana.gif "Trained Agent"
 
-# Train a Unity Environment (Banana field) using Deep Q-learning (DQN)
+# Train a Unity Environment (Multi-Agent Tennis) using MADDPG
 
 ## Introduction
 

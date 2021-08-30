@@ -9,6 +9,7 @@ pyyaml
 protobuf==3.5.2
 grpcio==1.11.0
 torch==0.4.0
+config == 0.4.2
 pandas
 scipy
 ipykernel
